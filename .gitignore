@@ -4,3 +4,6 @@
 *.jpg
 *.gz
 *.DS_Store
+*.pdf
+*.npy
+*.png
